@@ -1,0 +1,44 @@
+
+/* Jefta van Silfhout */
+body {
+    background-color: #d4cec1;
+    font-family: "Roboto";
+    color: #4f7302;
+    width: 800px;
+}
+h1 {
+    color: #A6430A;
+    line-height: 2.5em;
+    text-align:center;
+}
+h2 {
+    color: #A6430A;
+    line-height:1.8em;
+    border-bottom: 2px solid #a6430a;
+}
+p {
+    line-height: 1.8em;
+}
+a {
+    color: #f28907;
+}
+a:hover {
+    color: #a60303;
+    text-decoration: none;
+}
+ul {
+    color: #4f7302;
+    list-style-type: square;
+}
+ol {
+    color: #4f7302;
+    list-style-type: upper-roman;
+}
+table {
+    border-collapse: collapse;
+    border: 1px #dddddd;
+    width: 40%;
+}
+table td {
+    border: 1px solid #dddddd
+}
